@@ -23,6 +23,7 @@ body {
 }
 
 .profileImage-cont {
+  max-width: 750px;
   position: relative;
   width: 70%;
   margin-right: auto;
